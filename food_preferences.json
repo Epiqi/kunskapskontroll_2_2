@@ -1,0 +1,30 @@
+{
+    "person1": {
+        "name": "Person 1",
+        "likes": ["chicken", "salad", "fish"],
+        "dislikes": ["spicy food"],
+        "allergies": [],
+        "dietary_restrictions": []
+    },
+    "person2": {
+        "name": "Person 2",
+        "likes": ["beef", "meatballs", "stew"],
+        "dislikes": ["chicken", "pork" ],
+        "allergies": [],
+        "dietary_restrictions": []
+    },
+    "person3": {
+        "name": "Person 3",
+        "likes": ["vegetarian food", "soup", "sandwiches", "beef", "pizza"],
+        "dislikes": ["chicken", "pork"],
+        "allergies": [],
+        "dietary_restrictions": []
+    },
+    "person4": {
+        "name": "Person 4",
+        "likes": ["saugsages in buns", "pancakes", "pasta" ],
+        "dislikes": ["meat"],
+        "allergies": [],
+        "dietary_restrictions": []
+    }
+} 
